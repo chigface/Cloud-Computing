@@ -8,3 +8,8 @@
   - Sign on to IBM Cloud from the CLI.
   - Deploy an application from a local workstation by using the IBM Cloud CLI.
   - Test the application with its endpoint after the application is deployed and started.
+  - Create a starter Node.js application with a Cloudant DB service from a Node.js Cloudant Sample Git repository.
+  - Explore the features of the Cloudant dashboard.
+  - Run the IBM Cloud application.
+  - Run the application and add data to the Cloudant database.
+  - Verified the data that is stored in the database from the Cloudant dashboard.
